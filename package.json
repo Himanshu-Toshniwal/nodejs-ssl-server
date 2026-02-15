@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saasscaleup/nodejs-ssl-server.git"
+    "url": "git+https://github.com/Himanshu-Toshniwal/nodejs-ssl-server.git"
   },
   "keywords": [
     "nodejs",
@@ -22,12 +22,12 @@
     "Proxy",
     "Expressjs"
   ],
-  "author": "Scale-Up SaaS",
+  "author": "Himanshu-Toshniwal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saasscaleup/nodejs-ssl-server/issues"
+    "url": "https://github.com/Himanshu-Toshniwal/nodejs-ssl-server.git/issues"
   },
-  "homepage": "https://github.com/saasscaleup/nodejs-ssl-server#readme",
+  "homepage": "https://github.com/Himanshu-Toshniwal/nodejs-ssl-server.git#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
